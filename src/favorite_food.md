@@ -1,3 +1,7 @@
 # favorite food
 
-persimmon
+<<<<<<< HEAD
+chestnut
+=======
+chestnut
+>>>>>>> main
